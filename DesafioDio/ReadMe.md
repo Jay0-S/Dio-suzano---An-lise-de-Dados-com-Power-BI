@@ -17,3 +17,5 @@ Um pedido pode conter um ou mais produtos.
 Um produto pode estar em um ou mais pedidos.
 Pode ter mais de uma forma de pagamento.
 Possui status e código de rastreio.
+
+![esquema conceitual para o cenário de E-commerce](https://github.com/user-attachments/assets/49d46238-d371-4334-a17e-95ea4720b8d1)
