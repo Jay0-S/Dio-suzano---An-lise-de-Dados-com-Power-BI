@@ -1,0 +1,18 @@
+let fruta = "banana";
+
+switch (fruta) {
+  case "laranja":
+    console.log("Suco de laranja");
+    break;
+    
+  case "banana":
+  case "morango":
+    console.log("Vitamina");
+    break; 
+    
+  case "maça":
+    console.log("Vitamina de maça");
+    break;
+  default:
+  console.log("Suco desconhecido")
+    }
